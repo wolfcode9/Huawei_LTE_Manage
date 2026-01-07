@@ -11,4 +11,5 @@ Huawei 4G 路由器之鎖頻管理工具 (台灣專用)
 需求套件：  
   - huawei-lte-api==1.7.3  
   - speedtest-cli==2.1.3  
+
 pip install -r requirements.txt
