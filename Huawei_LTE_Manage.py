@@ -1,6 +1,6 @@
 """
 ================================================================================
-Huawei LTE Manager - TW  v1.3.5
+Huawei LTE Manager Pro v1.3.5 - TW Edition
 ================================================================================
 用途描述：
     本程式為華為 (Huawei) 4G 路由器之管理工具，專為台灣用戶設計，提供
@@ -96,7 +96,7 @@ BAND_MAP = {
 class RouterApp:
     def __init__(self, root):
         self.root = root
-        self.root.title(f"Huawei LTE Manager - TW  v1.3.5")
+        self.root.title(f"Huawei LTE Manager Pro v1.3.5 - TW Edition")
         
         # 視窗居中設定
         width, height = 620, 500
