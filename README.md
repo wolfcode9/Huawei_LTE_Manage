@@ -8,10 +8,3 @@ Huawei LTE Manager Pro v2.0.0 - TW Edition
 1. 信號指標：進行「極佳/良好/普通/較弱/極差」五級信號判定。
 2. 頻段鎖定：支援 B1/B3/B7/B8/B28/B38 鎖定功能。
 3. 簡訊管理：簡訊讀取/刪除管理。
-
-標準函式庫 (無需安裝任何套件)：
-    - urllib (HTTP 請求)
-    - xml.etree.ElementTree (XML 解析)
-    - hashlib (MD5 / SHA256)
-    - base64 (認證編碼)
-    - tkinter (GUI)
