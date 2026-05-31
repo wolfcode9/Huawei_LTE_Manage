@@ -1,2 +1,0 @@
-huawei-lte-api==1.7.3
-speedtest-cli==2.1.3
